@@ -1183,8 +1183,12 @@ font-size: 0.8rem;
   display: none;
  }
  .box{
-  width: 20vh;
+ display: none;
 
+}
+.foot1{
+  justify-content: center;
+  align-items: center;
 }
 .latest-data{
   width: 80vw;
