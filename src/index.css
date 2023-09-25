@@ -1199,4 +1199,12 @@ font-size: 0.8rem;
 .blog3{
   width: 30vw;
 }
+.ads{
+  height: 100%;
+}
+.advertisement{
+   height: 40%;
+   position: relative;
+   top: 10vh;
+}
 }
